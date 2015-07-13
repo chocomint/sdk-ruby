@@ -65,6 +65,7 @@ module NIFTY
                                        :from_port    => 'FromPort',
                                        :to_port      => 'ToPort',
                                        :in_out       => 'InOut', 
+                                       :description       => 'Description', 
                                        :user_id => 'Groups', 
                                        :group_name => 'Groups', 
                                        :cidr_ip => 'IpRanges'}, 
